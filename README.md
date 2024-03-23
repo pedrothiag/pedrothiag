@@ -9,4 +9,6 @@ Trabalho principalmente com as seguintes áreas:
 - Sistemas Digitais;
 - Linguagem de Descrição de Hardware e FPGAs.
 
+Aqui você encontrará materiais disponibilizados em minhas disciplinas, bem como alguns projetos pessoais (antigos e novos).
+
   ![image](https://github.com/pedrothiag/pedrothiag/assets/5923790/0ad2e57e-42a6-48fc-8bf2-efb858da533e) 

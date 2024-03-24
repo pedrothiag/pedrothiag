@@ -1,4 +1,4 @@
-## Seja bem vindo ao meu perfil no GitHub!
+# Seja bem vindo ao meu perfil no GitHub!
 
 Meu nome é Pedro Thiago Valério de Souza, e sou professor do curso de Engenharia de Computação na UFERSA - Campus Pau dos Ferros. Possuo graduação em Engenharia Elétrica na UFRN (2014), com mestrado (2017) e doutorado (2020) em Engenharia Elétrica e Computação, também pela UFRN. 
 
